@@ -27,39 +27,3 @@ var quiz = [
     correctAnswer: 'False'
   }
 ];
-
-// We start the game with a score of 0.
-//var score = 0;
-
-//function to display the questions
-//function displayQuiz(questionObject) {
-
-  //displayQues.text(questionObject.q);
-  //quesContainer.append(displayQues);
-//}
-
-//displayQuiz()
-
-//start.addEventListener('click', displayQuestion);
-
-// Loop over every question object
-//for (var i = 0; i < questions.length; i++) {
-  // Display current question to user and ask OK/Cancel
-  //var answer = (questions[i].q);
-//}
-  // Compare answers
-  //if (
-   // (answer === true && questions[i].a === 't') ||
-    //(answer === false && questions[i].a === 'f')
-  //) {
-    // Increase score
-    //score++;
-    // Alert the user
-   // alert('Correct!');
- // } else {
-    //alert('Wrong!');
-  
-//}
-
-  // Show total at end
-  //alert('You got ' + score + '/' + questions.length);
